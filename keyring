@@ -1,0 +1,3 @@
+ pacman -S artix-keyring
+ pacman-key --populate artix
+ pacman-key --lsign-key 78C9C713EAD7BEC69087447332E21894258C6105
