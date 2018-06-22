@@ -1,0 +1,1 @@
+ for user in systemd-journal systemd-journal-gateway systemd-timesync systemd-network systemd-bus-proxy systemd-journal-remote systemd-journal-upload; do userdel $user; done
